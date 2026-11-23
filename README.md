@@ -225,7 +225,7 @@ Python was used as the primary programming language for data preparation, statis
 ## Project Structure
 
 ```text
-investor-behaviour-analysis/
+investor-behaviour-data_analysis/
 │
 ├── report/
 │   └── research_report_paper.pdf
