@@ -1,0 +1,8 @@
+pandas
+numpy
+pyreadstat
+matplotlib
+seaborn
+scipy
+stepmix
+scikit-learn
